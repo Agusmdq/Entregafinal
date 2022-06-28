@@ -1,0 +1,21 @@
+article {
+    display: flex;
+    
+    
+    
+    
+    position:relative;
+    justify-content: space-evenly;
+    
+.icono-medio{
+    padding: 15px;
+   
+    font-size: 27px;
+    border-radius: 15px;
+   
+}
+.icono-medio:hover{
+    background: linear-gradient(90deg, #EDAE28, rgba(153, 51, 102, 0.627));
+    mix-blend-mode:multiply;
+}
+}
